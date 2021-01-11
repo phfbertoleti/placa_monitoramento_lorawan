@@ -3,7 +3,7 @@
 Este é o repositório oficial da placa "Monitamento LoRaWAN" / placa "manutenção preventiva". Esta placa é um projeto open-source de minha autoria para monitamento de variáveis via LoRaWAN e para uso em algumas aplicações de manutenção preventiva. Este projeto faz uso do módulo Heltec wifi LoRa V1 (com conectividades LoRa/LoRaWAN, BLE e wi-fi).
 
 
-![Placa monitoramento LoRaWAN / manutenção preventiva](https://github.com/phfbertoleti/placa_monitoramento_lorawan/master/Imagens/placa_montada.jpg)
+![Placa monitoramento LoRaWAN / manutenção preventiva](https://github.com/phfbertoleti/placa_monitoramento_lorawan/blob/main/Imagens/placa_montada.jpg)
 
 ## Princípio de funcionamento
 
