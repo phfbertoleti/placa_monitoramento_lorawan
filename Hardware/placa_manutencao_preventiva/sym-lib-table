@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name placa_manutencao_preventiva-rescue)(type Legacy)(uri ${KIPRJMOD}/placa_manutencao_preventiva-rescue.lib)(options "")(descr ""))
+)
